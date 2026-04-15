@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Khaled AlQahtani
 
-<!--
-**Khaledq47/Khaledq47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+📊 Passionate about Data Analytics
 
-Here are some ideas to get you started:
+I specialize in transforming data into meaningful insights using tools like Power BI, SQL, Excel, and Python. I enjoy building dashboards, analyzing datasets, and continuously learning new techniques in data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+* 📊 Power BI (Data Visualization, Dashboards, DAX)
+* 🧠 SQL (Data Querying & Manipulation)
+* 📈 Excel (Data Cleaning & Analysis)
+* 🐍 Python (Pandas, NumPy, Data Analysis)
+
+---
+
+## 📂 Projects
+
+Here are some of the projects I've worked on:
+
+* 🔹 Sales Data Analysis Dashboard (Power BI)
+* 🔹 Data Cleaning & Analysis using Python (Pandas)
+* 🔹 SQL Database Queries for Business Insights
+
+👉 *More projects coming soon...*
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Data Visualization
+* Data Storytelling
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/khaledfalahalqahtani
+
+---
+
+⭐️ Always learning, building, and improving!
