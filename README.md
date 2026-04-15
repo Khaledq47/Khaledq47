@@ -36,6 +36,6 @@ I specialize in building interactive dashboards and turning raw data into clear,
 
 *  LinkedIn: https://www.linkedin.com/in/khaledfalahalqahtani
 
----
 
-⭐️ I am trying to master all the tools and grow in data analytics.
+
+
