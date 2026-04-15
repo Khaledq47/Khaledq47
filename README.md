@@ -1,44 +1,41 @@
 # 👋 Hi, I'm Khaled AlQahtani
 
-🎓 Computer Science Student
-📊 Passionate about Data Analytics
+ Computer Science Student
+ Focused on Data Analytics with Power BI
 
-I specialize in transforming data into meaningful insights using tools like Power BI, SQL, Excel, and Python. I enjoy building dashboards, analyzing datasets, and continuously learning new techniques in data analysis.
-
----
-
-## 🚀 Skills & Tools
-
-* 📊 Power BI (Data Visualization, Dashboards, DAX)
-* 🧠 SQL (Data Querying & Manipulation)
-* 📈 Excel (Data Cleaning & Analysis)
-* 🐍 Python (Pandas, NumPy, Data Analysis)
+I specialize in building interactive dashboards and turning raw data into clear, actionable insights using Power BI. I enjoy working with data, exploring patterns, and presenting results in a way that supports decision-making.
 
 ---
 
-## 📂 Projects
+  Core Skill
 
-Here are some of the projects I've worked on:
-
-* 🔹 Sales Data Analysis Dashboard (Power BI)
-* 🔹 Data Cleaning & Analysis using Python (Pandas)
-* 🔹 SQL Database Queries for Business Insights
-
-👉 *More projects coming soon...*
+*  Power BI (Dashboards, Data Modeling, DAX, Data Visualization)
 
 ---
 
-## 🌱 Currently Learning
+  Projects
 
-* Advanced Data Visualization
+* 🔹 Sales Dashboard using Power BI
+* 🔹 Data Visualization Reports
+
+ *Currently working on improving and adding more real-world projects*
+
+---
+
+  Currently Learning
+
+*  SQL
+*  Excel
+*  Python
+* Advanced Power BI (DAX & Data Modeling)
 * Data Storytelling
 
 ---
 
-## 📫 Connect with Me
+  Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/khaledfalahalqahtani
+*  LinkedIn: https://www.linkedin.com/in/khaledfalahalqahtani
 
 ---
 
-⭐️ Always learning, building, and improving!
+⭐️ I am trying to master all the tools and grow in data analytics.
