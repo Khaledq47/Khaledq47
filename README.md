@@ -18,7 +18,7 @@ I specialize in building interactive dashboards and turning raw data into clear,
 
 ## 📂 Projects
 
-👉 **[View my Data Analytics Portfolio](https://github.com/)**
+👉 **[View my Data Analytics Portfolio](https://github.com/Khaledq47/data-analytics-portfolio)**
 
 *Currently working on improving and adding more real-world projects.*
 
@@ -37,4 +37,4 @@ I specialize in building interactive dashboards and turning raw data into clear,
 
 ## 📫 Connect with Me
 
-* LinkedIn: [Khaled AlQahtani](https://www.linkedin.com/in/khaledfalahalqahtani)
+* LinkedIn: [Khaled AlQahtani](https://www.linkedin.com/in/khaledfalahalqahtani/)
